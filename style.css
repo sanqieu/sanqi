@@ -1,0 +1,19 @@
+body { 
+  text-align: center; 
+  background: #f4eacb; 
+  font-family: Arial, sans-serif;
+}
+#menu { 
+  margin-top: 40px; 
+}
+canvas { 
+  border: 2px solid #333; 
+  margin-top: 20px; 
+  background: #F9E4B7;
+}
+button {
+  font-size: 1.2em;
+  margin: 0 20px;
+  padding: 8px 24px;
+  cursor: pointer;
+}
