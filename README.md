@@ -1,1 +1,1 @@
-五子棋网址：
+五子棋网址：https://sanqieu.github.io/sanqi/
